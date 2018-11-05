@@ -1,4 +1,4 @@
 # Configure the Heroku provider
 provider "heroku" {
-  email = "post@glennbech.no"
+  email = "khanim14@student.westerdals.no"
 }
